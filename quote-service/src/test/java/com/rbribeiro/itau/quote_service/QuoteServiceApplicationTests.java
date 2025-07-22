@@ -1,10 +1,10 @@
-package com.rbribeiro.itau.quota_service;
+package com.rbribeiro.itau.quote_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class QuotaServiceApplicationTests {
+class QuoteServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -32,7 +32,7 @@ services:
     environment:
       POSTGRES_USER: itau
       POSTGRES_PASSWORD: senha123
-      POSTGRES_DB: quota_db
+      POSTGRES_DB: quote_db
     ports:
       - "5432:5432"
     volumes:

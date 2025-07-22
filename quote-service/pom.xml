@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.rbribeiro.itau</groupId>
-	<artifactId>quota-service</artifactId>
+	<artifactId>quote-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>quota-service</name>
+	<name>quote-service</name>
 	<description>A resilient microservice that consumes real-time asset quotes from Kafka, ensures reliable storage with idempotency, and provides up-to-date pricing data for downstream financial calculations within the Itaú ecosystem.</description>
 	<url/>
 	<licenses>
